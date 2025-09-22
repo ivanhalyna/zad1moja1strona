@@ -3,7 +3,7 @@
 <html> 
      <head> 
              <meta charset="utf-8"> 
-             <title>Ivan Halyna</title> 
+             <title> Ivan Halyna </title> 
      </head> 
     <body> 
  Ivan Halyna
