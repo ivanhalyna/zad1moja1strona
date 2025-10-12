@@ -1,30 +1,149 @@
 <!DOCTYPE html> 
-<html lang="pl-PL"> 
-<html> 
-     <head> 
-             <meta charset="utf-8"> 
-             <title> Ivan Halyna </title> 
-     </head> 
-    <body> 
- Ivan Halyna
-<p align="right"> <font color="blue" size="7" face="Arial"> Ivan </font> </p> <br>
-<p align="right"> <font color="blue" size="6" face="Arial"> Ivan </font> </p> <br>
-<p align="right"> <font color="blue" size="5" face="Arial"> Ivan </font> </p> <br>
+      <html lang="pl-PL"> 
+      <html> 
+               <head> 
+                     <meta charset="utf-8"> 
+                    <title>Halyna Ivan</title> 
+             </head> 
+             <body> 
+              <a name="skok_poczatek"></a> 
+              <a href="#skok_poczatek">Link do poczty</a> 
+              <a href="#skok_poczatek">Link do ściągania pliku </a> 
+              <a href="#skok_poczatek">Link do środka tekstu </a> 
+              <a href="#skok_poczatek">kliknij aby skoczyć na początek tekstu</a> 
+              <a href="#skok_poczatek">kliknij aby skoczyć na początek tekstu</a> 
+ Halyna Ivan
+<p align="right"> <font color="blue" size="3" face="Arial"> Ivan</font> </p> <br>
 <p align="right"> <font color="blue" size="4" face="Arial"> Ivan </font> </p> <br>
-<p align="right"> <font color="blue" size="3" face="Arial"> Ivan </font> </p> <br>
-<p align="right"> <font color="blue" size="2" face="Arial"> Ivan </font> </p> <br>
-<h1>  Halyna </h1><br> 
-<h2>  Halyna </h1><br> 
-<h3>  Halyna </h1><br> 
-<h4>  Halyna </h1><br> 
-<h5>  Halyna </h1><br> 
+<p align="right"> <font color="blue" size="4" face="Arial"> Ivan </font> </p> <br>
+<p align="right"> <font color="blue" size="5" face="Arial"> Ivan </font> </p> <br>
+<p align="right"> <font color="blue" size="6" face="Arial"> Ivan </font> </p> <br>
+<p align="right"> <font color="blue" size="7" face="Arial"> Ivan </font> </p> <br>
 <h6>  Halyna </h1><br> 
-:S ;/ ;-/ =/ x/ 8/ :\ :-\ ;\ ;-\ =\ x\ 8\	Sceptycyzm, irytacja, splątanie, niezdecydowanie
-<p align="right"> <font color="blue" size="3" face="Arial"> 8/ </font> </p> <br>
-<p align="right"> <font color="blue" size="3" face="Arial"> x/ </font> </p> <br>
-<p align="right"> <font color="blue" size="3" face="Arial"> =/ </font> </p> <br>
-<p align="right"> <font color="blue" size="3" face="Arial"> ;-/ </font> </p> <br>
-<p align="right"> <font color="blue" size="3" face="Arial"> ;/ </font> </p> <br>
-<p align="right"> <font color="blue" size="3" face="Arial"> :S </font> </p> <br>
+<h5>  Halyna </h1><br> 
+<h4>  Halyna </h1><br> 
+<h3>  Halyna </h1><br> 
+<h2>  Halyna </h1><br> 
+<h1>  Halyna </h1><br> 
+<p align="right"> <font color="red" size="3" face="Arial"> :‑) </font> </p> <br>
+<p align="right"> <font color="red" size="3" face="Arial"> 8D </font> </p> <br>
+<p align="right"> <font color="red" size="3" face="Arial"> :[ </font> </p> <br>
+<p align="right"> <font color="red" size="3" face="Arial"> :0 </font> </p> <br>
+<p align="right"> <font color="red" size="3" face="Arial"> =3 </font> </p> <br>
+<p align="right"> <font color="red" size="3" face="Arial"> ;‑] </font> </p> <br>
+
+<p align="left"> <font color="black" size="3" face="Arial"><b> Adres: 88-283 </b>  <i>warszawa</i>  <u> chinski prospekt </u>  <strike>14/88</strike></font> </p> <br>   
+<center> <p> <font color="yellow" size="10" face="Arial"> Ulubiony aktor: Dwayne Johnson </font> </p> <br> </p> </center><br>
+<center> <p> <font color="blue" size="6" face="'Courier New'">  Ulubiony zespol muzyczny:<font color="red" size="5" face="Verdana "> somewhaat </font> </p> <br> </p> </center><br> 
+<center> <p> <font color="pink" size="4" face="'Times New Roman'"> data urodzenia:67 nieistniewnika 1997 </font> </p> <br> </p> </center><br> 
+<p align="left">H<sub>2</sub>SO<sub>4</sub></p> <br>
+  <p align="left"> x*x=x<sup>2</sup></p> <br>
+
+              
+              
+<H1 ALIGN=center> Dowcip o internecie </H1> 
+<IMG SRC="m.gif" ALIGN=right BORDER=33 WIDTH=123 HEIGHT=129 ALT="grafika1 Halyna">
+<legend>O internecie</legend> 
+- Na czym polega globalna wioska?  <br /> 
+- Na tym, że ludzie z całej Polski na Onecie zachowują się jak na wsi. <br />                  
+</fieldset>
+<HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red>  
+<!- Ivan Halyna-> 
+<H1 ALIGN=left> Dowcip o muzyce </H1> 
+<fieldset> 
+<IMG SRC="krmt.gif" ALIGN=left BORDER=39 WIDTH=129 HEIGHT=123 ALT="grafika2 Halyna">
+<IMG SRC="sp.gif" ALIGN=right BORDER=33 WIDTH=123 HEIGHT=129 ALT="grafika3 Halyna">
+<legend>O Muzyce</legend> 
+Jak nazywa się ktoś, kto kręci się przy muzykach?   <br /> 
+- Perkusista  <br />                  
+</fieldset> 
+<IMG SRC="sb.gif" ALIGN=left BORDER=20 WIDTH=110 HEIGHT=108 ALT="grafika4 Halyna">
+<IMG SRC="wzp.gif" ALIGN=right BORDER=15 WIDTH=105 HEIGHT=105 ALT="grafika5 Halyna">
+<HR SIZE=3 WIDTH=70% ALIGN=RIGHT COLOR=green> 
+<H1 ALIGN=right> Dowcip o szkole</H1>
+<fieldset> 
+<legend>O szkole</legend> 
+Choroby przenoszą się z rośliny na roślinę a niekiedy nawet z roku na rok.  <br />                 
+</UL> </FIELDSET> 
+  nazwisko ucznia&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; imię ucznia<br/>
+Halyna&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;   &nbsp; Ivan    
+
+
+
+
+<br><br><br> 
+<h1> poniżej są  trzy wyliczenia z różnymi znakami wyliczenia</h1> 
+<h1> Ty zaproponuj swoje, związane z informatyką</h1> 
+<h1> Typy
+komputerów</h1> 
+
+<UL TYPE=circle>  
+   <LI>  Komputer stacjonarny
+   <LI> Komputer samochodowy 
+   <LI> Konsole
+</UL>         
+
+<UL TYPE=disc>  
+   <LI>  laptopy
+   <LI> Tablety
+   <LI> Smartfony
+   </UL>  
+
+<UL TYPE=square>  
+   <LI>  Palmtopy   
+   <LI> Programowalne kalkulatory
+   <LI> Przenośna konsola  
+
+
+<br><br><br> 
+<h2> poniżej są  trzy numerowania z różnymi znakami numerowania</h2> 
+<h2> Ty zaproponuj swoje, związane z informatyką</h2> 
+<h2> Typy Sieći komputerowych</h2>
+
+<OL TYPE=A START=23>  
+   <LI> gwiazda 
+   <LI> gwiazda rozszerzona
+   <LI> hierarchiczna 
+</OL> 
+    
+<OL TYPE=I START=23>  
+   <LI> magistrala  
+   <LI> pierścień
+   <LI> token ring
+</OL>  
+   
+<OL TYPE=a START=23>  
+   <LI> pierścień podwójny  
+   <LI> FDDI
+   <LI> siatka
+</OL>  
+<br><br><br> 
+<h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi  rodzajami numerowania/wyliczenia</h3> 
+<h3> Ty zaproponuj swoje, związane z informatyką</h3>
+
+<OL>  
+    <LI>  Urządzenia zewnętrzne komputera 
+             <OL type=A>  
+                    <LI> mysz
+                    <LI> klawiatura 
+                    <LI> monitor
+             </OL>  
+       <LI> Urządzenia wewnętrzne komputera 
+             <OL type=A>  
+                    <LI> procesor
+                           <OL type=a>
+                                  <LI> AMD
+                                  <LI> Intel
+                            </OL> 
+                   <LI> Karta graficzna 
+                           <OL type=a> 
+                                  <LI> Radeon
+                                  <LI> GeForce
+                                  <LI> ARC
+                           </OL> 
+              </OL> 
+ </OL>
+    <a href="#skok_poczatek">kliknij aby skoczyć na początek tekstu</a> 
+   
     </body> 
   </html>
