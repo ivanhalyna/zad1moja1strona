@@ -42,7 +42,7 @@
               
               
 <H1 ALIGN=center> Dowcip o internecie </H1> 
-<IMG SRC="m.gif" ALIGN=right BORDER=33 WIDTH=123 HEIGHT=129 ALT="grafika1 Halyna">
+<IMG SRC="Back To School Television GIF.gif" ALIGN=right BORDER=33 WIDTH=123 HEIGHT=129 ALT="grafika1 Halyna">
 <legend>O internecie</legend> 
 - Na czym polega globalna wioska?  <br /> 
 - Na tym, że ludzie z całej Polski na Onecie zachowują się jak na wsi. <br />                  
@@ -51,14 +51,14 @@
 <!- Ivan Halyna-> 
 <H1 ALIGN=left> Dowcip o muzyce </H1> 
 <fieldset> 
-<IMG SRC="krmt.gif" ALIGN=left BORDER=39 WIDTH=129 HEIGHT=123 ALT="grafika2 Halyna">
-<IMG SRC="sp.gif" ALIGN=right BORDER=33 WIDTH=123 HEIGHT=129 ALT="grafika3 Halyna">
+<IMG SRC="Excited School GIF.gif" ALIGN=left BORDER=39 WIDTH=129 HEIGHT=123 ALT="grafika2 Halyna">
+<IMG SRC="School Bus GIF.gif" ALIGN=right BORDER=33 WIDTH=123 HEIGHT=129 ALT="grafika3 Halyna">
 <legend>O Muzyce</legend> 
 Jak nazywa się ktoś, kto kręci się przy muzykach?   <br /> 
 - Perkusista  <br />                  
 </fieldset> 
-<IMG SRC="sb.gif" ALIGN=left BORDER=20 WIDTH=110 HEIGHT=108 ALT="grafika4 Halyna">
-<IMG SRC="wzp.gif" ALIGN=right BORDER=15 WIDTH=105 HEIGHT=105 ALT="grafika5 Halyna">
+<IMG SRC="School Studying GIF by hamlet.gif" ALIGN=left BORDER=20 WIDTH=110 HEIGHT=108 ALT="grafika4 Halyna">
+<IMG SRC="Test Fail GIF by P!NK.gif" ALIGN=right BORDER=15 WIDTH=105 HEIGHT=105 ALT="grafika5 Halyna">
 <HR SIZE=3 WIDTH=70% ALIGN=RIGHT COLOR=green> 
 <H1 ALIGN=right> Dowcip o szkole</H1>
 <fieldset> 
