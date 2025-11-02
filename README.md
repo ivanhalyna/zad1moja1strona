@@ -7,11 +7,12 @@
              </head> 
              <body> 
               <a name="skok_poczatek"></a> 
-              <a href="#skok_poczatek">Link do poczty</a> 
-              <a href="#skok_poczatek">Link do ściągania pliku </a> 
-              <a href="#skok_poczatek">Link do środka tekstu </a> 
-              <a href="#skok_poczatek">kliknij aby skoczyć na początek tekstu</a> 
-              <a href="#skok_poczatek">kliknij aby skoczyć na początek tekstu</a> 
+               <A HREF="https://ivanhalyna.github.io/poczta_halyna"> Link do poczty </A>  <br>
+               <A HREF="https://ivanhalyna.github.io/plik_halyna1"> Link do sciagania pliku </A>  <br>
+              <a href="#skok_srodek">Link do środka tekstu </a> <br>
+              <a href="#skok_koniec"> Link do końca tekstu </a> <br>
+             <A HREF="https://ivanhalyna.github.io/tabela_halyna"> Link do strony zawierającej tabelę </A>  <br>
+              <a href="#skok_formularz">Link do strony zawierającej formularz </a> <br>
  Halyna Ivan
 <p align="right"> <font color="blue" size="3" face="Arial"> Ivan</font> </p> <br>
 <p align="right"> <font color="blue" size="4" face="Arial"> Ivan </font> </p> <br>
@@ -42,6 +43,13 @@
               
               
 <H1 ALIGN=center> Dowcip o internecie </H1> 
+ <a name="skok_srodek"></a>
+               <A HREF="https://ivanhalyna.github.io/poczta_halyna"> Link do poczty </A>  <br>
+            <A HREF="https://ivanhalyna.github.io/plik_halyna1"> Link do sciagania pliku </A>  <br>
+              <a href="#skok_poczatek">Link na początek tekstu </a> <br>
+              <a href="#skok_koniec"> Link do końca tekstu </a> <br>
+               <A HREF="https://ivanhalyna.github.io/tabela_halyna"> Link do strony zawierającej tabelę </A>  <br>
+              <a href="#skok_formularz">Link do strony zawierającej formularz </a> <br>
 <IMG SRC="Back To School Television GIF.gif" ALIGN=right BORDER=33 WIDTH=123 HEIGHT=129 ALT="grafika1 Halyna">
 <legend>O internecie</legend> 
 - Na czym polega globalna wioska?  <br /> 
@@ -143,7 +151,13 @@ komputerów</h1>
                            </OL> 
               </OL> 
  </OL>
-    <a href="#skok_poczatek">kliknij aby skoczyć na początek tekstu</a> 
+     <a name="skok_koniec"></a>
+  <A HREF="https://ivanhalyna.github.io/poczta_halyna"> Link do poczty </A>  <br>
+    <A HREF="https://ivanhalyna.github.io/plik_halyna1"> Link do sciagania pliku </A>  <br>
+    <a href="#skok_poczatek">Link początek tekstu </a> <br>
+    <a href="#skok_srodek"> Link do srodka tekstu </a> <br>
+     <A HREF="https://ivanhalyna.github.io/tabela_halyna"> Link do strony zawierającej tabelę </A>  <br>
+    <a href="#skok_formularz">Link do strony zawierającej formularz </a> <br>
    
     </body> 
   </html>
