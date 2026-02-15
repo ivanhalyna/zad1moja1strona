@@ -37,6 +37,7 @@
 <center> <p> <font color="yellow" size="10" face="Arial"> Ulubiony aktor: Dwayne Johnson </font> </p> <br> </p> </center><br>
 <center> <p> <font color="blue" size="6" face="'Courier New'">  Ulubiony zespol muzyczny:<font color="red" size="5" face="Verdana "> somewhaat </font> </p> <br> </p> </center><br> 
 <center> <p> <font color="pink" size="4" face="'Times New Roman'"> data urodzenia:67 nieistniewnika 1997 </font> </p> <br> </p> </center><br> 
+      <font color="black">
 <p align="left">H<sub>2</sub>SO<sub>4</sub></p> <br>
   <p align="left"> x*x=x<sup>2</sup></p> <br>
 
